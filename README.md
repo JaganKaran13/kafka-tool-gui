@@ -5,6 +5,10 @@ Kafka Tool GUI
 Install python 3.4 and above
 Install pip to install the requirements
 
+For ubuntu users use the following command to install pip for python3,
+
+`sudo apt install python3-pip`
+
 ### Install the required packages
 run the following command if pip is already installed to your system.
 
