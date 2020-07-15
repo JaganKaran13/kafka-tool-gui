@@ -1,6 +1,6 @@
 class Constants:
     APPLICATION_TITLE = "Welcome to Apache Kafka Local Setup Tool"
-    APPLICATION_WINDOW_TITLE = "Application Title"
+    APPLICATION_WINDOW_TITLE = "Kafka Application Tool"
     START_BUTTON = "Start"
     STOP_BUTTON = "Stop"
     CHOOSE_FOLDER = "Choose Folder"
