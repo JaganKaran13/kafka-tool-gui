@@ -24,3 +24,11 @@ Add Kafka Operation
 - Create a topic
 - Delete a topic
 - List the topic
+
+### How to use the Application:
+![image](https://user-images.githubusercontent.com/32727177/87570721-aae2f600-c6e6-11ea-8e3c-670d68e4d837.png)
+
+- Click the choose `folder button` and select the kafka folder.
+- Then Click the `start` button, after 1 min, validate the server is up running.
+- To Stop the server click `Stop` Button.
+- If the application is closed directly, then the server will be stopped
