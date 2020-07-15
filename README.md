@@ -17,6 +17,6 @@ Run the application to start and stop the kafka server.
 
 # TODO:
 Add Kafka Operation
-Create a topic
-Delete a topic
-List the topic
+- Create a topic
+- Delete a topic
+- List the topic
