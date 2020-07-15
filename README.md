@@ -24,9 +24,10 @@ Add Kafka Operation
 - Create a topic
 - Delete a topic
 - List the topic
+- Add tool tip to the button
 
 ### How to use the Application:
-![image](https://user-images.githubusercontent.com/32727177/87570721-aae2f600-c6e6-11ea-8e3c-670d68e4d837.png)
+![image](https://user-images.githubusercontent.com/32727177/87579296-5003cb80-c6f3-11ea-87cf-65bea37f2e04.png)
 
 - Click the choose `folder button` and select the kafka folder.
 - Then Click the `start` button, after 1 min, validate the server is up running.
